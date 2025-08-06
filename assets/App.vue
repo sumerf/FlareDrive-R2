@@ -21,7 +21,7 @@
         <h1 class="app-title" style="font-size: 20px;margin: 0 25px 0 8px; user-select: none;">FlareDrive</h1>
       </a>
 
-      <input type="search" v-model="search" aria-label="Search" placeholder="🍿 输入以全局搜索文件" />
+      <input type="search" v-model="search" aria-label="Search" placeholder="输入以全局搜索文件" />
       <div class="menu-button">
         <button class="circle" @click="showMenu = true" style="display: flex; align-items: center;background-color: rgb(245, 245, 245);">
           <p style="
@@ -596,7 +596,7 @@ export default {
           window.history.pushState(null, "", url.toString());
         }
         document.title = this.cwd.replace(/.*\/(?!$)|\//g, "") === "/" 
-            ? "FlareDrive-R2 - 优雅的 Cloudflare R2 网盘文件库"
+            ? "凉城的网盘"
             :`${this.cwd.replace(/.*\/(?!$)|\//g, "") || "/" } - 优雅的 Cloudflare R2 网盘文件库`;
       },
       immediate: true,
