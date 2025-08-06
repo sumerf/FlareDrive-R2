@@ -597,7 +597,7 @@ export default {
         }
         document.title = this.cwd.replace(/.*\/(?!$)|\//g, "") === "/" 
             ? "凉城的网盘"
-            :`${this.cwd.replace(/.*\/(?!$)|\//g, "") || "/" } - 优雅的 Cloudflare R2 网盘文件库`;
+            :`${this.cwd.replace(/.*\/(?!$)|\//g, "") || "/" } - 凉城的云盘;
       },
       immediate: true,
     },
