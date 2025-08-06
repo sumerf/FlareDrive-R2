@@ -18,7 +18,7 @@
     <div class="app-bar">
       <a class="app-title-container" style="display: flex; align-items: center;" href="/">
         <img src="https://us-west-004-imgs.ccip.top/2024/02/19/65d32e8179a33.png" alt="凉城的网盘" style="height: 24px" />
-        <h1 class="app-title" style="font-size: 20px;margin: 0 25px 0 8px; user-select: none;">凉城的网盘</h1>
+        <h1 class="app-title" style="font-size: 20px;margin: 0 25px 0 8px; user-select: none;">凉城的网盘'</h1>
       </a>
 
       <input type="search" v-model="search" aria-label="Search" placeholder="输入以全局搜索文件" />
