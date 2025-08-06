@@ -210,7 +210,7 @@ export default {
     showUploadPopup: false,
     uploadProgress: null,
     uploadQueue: [],
-    backgroundImageUrl: "/assets/bg-light.webp"
+    backgroundImageUrl: "https://pic.20071008.xyz/img/wallhaven-xe85j3.jpg"
   }),
 
   computed: {
