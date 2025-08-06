@@ -40,10 +40,10 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://www.liushen.fun/",
-      blogUrl: "https://blog.liushen.fun/",
-      githubUrl: "https://github.com/willow-god",
-      emailUrl: "mailto:01@liushen.fun"
+      homeUrl: "https://pan.20071008.xyz/",
+      blogUrl: "https://20071008.xyz/",
+      githubUrl: "https://github.com/lcdl6",
+      emailUrl: "mailto:lcdl6@qq.com"
     };
   }
 };
