@@ -15,7 +15,7 @@
       </a>
     </div>
 
-    <div style="margin:10px 0;">© 2025 凉城. All rights reserved.</div>
+    <div style="margin:10px 0;">Copyright © by 凉城 All Rights Reserved.</div>
   </footer>
 </template>
 
